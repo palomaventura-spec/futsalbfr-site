@@ -1,0 +1,29 @@
+{
+  "//": "Adicione um objeto novo no topo da lista para cada post novo do Instagram. Basta copiar o link do post público (ex: https://www.instagram.com/p/XXXXXXXXXXX/). Os campos titulo, categoria e data são só para organizar o card, o conteúdo visual (foto/legenda) vem direto do Instagram.",
+  "posts": [
+    {
+      "url": "https://www.instagram.com/p/EXEMPLO01/",
+      "titulo": "Sub-13 vence rodada da Liga Rio de Futsal",
+      "categoria": "Sub-13",
+      "data": "2026-06-28"
+    },
+    {
+      "url": "https://www.instagram.com/p/EXEMPLO02/",
+      "titulo": "Convocação para o torneio estadual",
+      "categoria": "Sub-15",
+      "data": "2026-06-24"
+    },
+    {
+      "url": "https://www.instagram.com/p/EXEMPLO03/",
+      "titulo": "Treino aberto na Sede de Base",
+      "categoria": "Sub-11",
+      "data": "2026-06-20"
+    },
+    {
+      "url": "https://www.instagram.com/p/EXEMPLO04/",
+      "titulo": "Novos uniformes de treino chegam às categorias",
+      "categoria": "Institucional",
+      "data": "2026-06-15"
+    }
+  ]
+}

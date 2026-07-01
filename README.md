@@ -1,5 +1,3 @@
-# futsalbfr-site
-
 # Futsal BFR — Categorias de Base
 
 Site (projeto não-oficial) para as categorias de base do futsal do Botafogo,
